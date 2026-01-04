@@ -9,6 +9,6 @@ cd -
 cd
 cat ./-
 output: <REDACTED_LEVEL01>
-
+ 
 Proof: 
 Takeaways: Dont overcomplicate, It was on the same directory. Time: 8 min
