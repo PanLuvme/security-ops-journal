@@ -7,5 +7,5 @@ Commands done:
 
 cat -- "--spaces in this filename--"
 output: <REDACTED_LEVEL02>
-
+ 
 Proof: Takeaways: needed to concatenate files and print on the standard output so I used cat. Time: 3 min
